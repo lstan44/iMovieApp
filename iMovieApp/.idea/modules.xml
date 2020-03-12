@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="iMovieApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/iMovieApp.iml" filepath="$PROJECT_DIR$/iMovieApp.iml" group="iMovieApp" />
+    </modules>
+  </component>
+</project>
